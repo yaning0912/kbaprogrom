@@ -104,7 +104,7 @@
                       "description":"在 当前窗口 打开 首页",
                       "target":{
                         "targetType":"page",
-                        "url":"首页.html",
+                        "url":"/index.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -453,7 +453,7 @@
                       "description":"在 当前窗口 打开 首页",
                       "target":{
                         "targetType":"page",
-                        "url":"首页.html",
+                        "url":"/index.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1723,7 +1723,7 @@
                               "description":"在 当前窗口 打开 首页",
                               "target":{
                                 "targetType":"page",
-                                "url":"首页.html",
+                                "url":"/index.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3339,7 +3339,7 @@
                         "description":"在 当前窗口 打开 首页",
                         "target":{
                           "targetType":"page",
-                          "url":"首页.html",
+                          "url":"/index.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true,

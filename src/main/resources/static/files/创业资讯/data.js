@@ -104,7 +104,7 @@
                       "description":"在 当前窗口 打开 首页",
                       "target":{
                         "targetType":"page",
-                        "url":"首页.html",
+                        "url":"/index.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -427,7 +427,7 @@
                       "description":"在 当前窗口 打开 首页",
                       "target":{
                         "targetType":"page",
-                        "url":"首页.html",
+                        "url":"/index.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -475,7 +475,7 @@
                       "description":"在 当前窗口 打开 首页",
                       "target":{
                         "targetType":"page",
-                        "url":"首页.html",
+                        "url":"/index.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -736,7 +736,7 @@
                               "description":"在 当前窗口 打开 KAB概况",
                               "target":{
                                 "targetType":"page",
-                                "url":"kab概况.html",
+                                "url":"/survey.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -847,7 +847,7 @@
                               "description":"在 当前窗口 打开 首页",
                               "target":{
                                 "targetType":"page",
-                                "url":"首页.html",
+                                "url":"/index.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -964,7 +964,7 @@
                               "description":"在 当前窗口 打开 KAB公告",
                               "target":{
                                 "targetType":"page",
-                                "url":"kab公告.html",
+                                "url":"/KabGG.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1081,7 +1081,7 @@
                               "description":"在 当前窗口 打开 新闻展示",
                               "target":{
                                 "targetType":"page",
-                                "url":"新闻展示.html",
+                                "url":"/journalismExhibi.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1202,7 +1202,7 @@
                               "description":"在 当前窗口 打开 KAB课程",
                               "target":{
                                 "targetType":"page",
-                                "url":"kab课程.html",
+                                "url":"/course.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3142,7 +3142,7 @@
                         "description":"在 当前窗口 打开 首页",
                         "target":{
                           "targetType":"page",
-                          "url":"首页.html",
+                          "url":"/index.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true,

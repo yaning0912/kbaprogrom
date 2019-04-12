@@ -18,13 +18,50 @@ public class WebRedirection {
     public String trunIndex(){
         return "home";
     }
-
     /*
      * 跳转到kab公告页面
      * */
     @RequestMapping("/KabGG.html")
     public String trunKabGG(){
         return "notice";
+    }
+
+    /**
+     * 跳转kba概况页面
+     * */
+    @RequestMapping("/survey.html")
+    public String trunSurvey(){
+        return "survey";
+    }
+    /**
+     * 创业资讯管理
+     * */
+    @RequestMapping("/entreprCo.html")
+    public String turnentreprCo(){
+        return "entreprCo";
+    }
+
+    /**
+     * 新闻展示页面
+     * */
+    @RequestMapping("/journalismExhibi.html")
+    public String trunjournalismExhibi(){
+        return "journalismExhibi";
+    }
+    /**
+     * KAb课程
+     * */
+    @RequestMapping("/course.html")
+    public String turncourse(){
+        return "course";
+    }
+
+    /**
+     * 网上开班
+     * */
+    @RequestMapping("/classCr.html")
+    public String trunclassCrs(){
+        return "classCr";
     }
 
     /**
